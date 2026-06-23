@@ -6,4 +6,4 @@ This is the official PyTorch implementation of BRCG-TPDNet.
 · NVIDIA GPU + CUDA cuDNN
 # Installation
 · Install python requirements:
-pip install -r requirements.txt
+
